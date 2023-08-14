@@ -80,15 +80,15 @@ Salt and pepper
 1 tbsp honey
 
 Instructions:
-Preheat the oven to 400°F (200°C).
-Season the racks of lamb with salt and pepper.
-Heat the olive oil in a large oven-safe skillet over medium-high heat.
-Add the lamb to the skillet and sear on all sides until browned, about 2-3 minutes per side.
-Remove the lamb from the skillet and set aside.
-In a small bowl, mix together the garlic, thyme, rosemary, Dijon mustard, and honey.
-Brush the mixture over the top and sides of the lamb racks.
-Return the lamb to the skillet and roast in the oven for 15-20 minutes, or until the internal temperature reaches 135°F (57°C) for medium-rare.
-Remove the lamb from the oven and let it rest for 5-10 minutes before slicing and serving.
+-Preheat the oven to 400°F (200°C).
+-Season the racks of lamb with salt and pepper.
+-Heat the olive oil in a large oven-safe skillet over medium-high heat.
+-Add the lamb to the skillet and sear on all sides until browned, about 2-3 minutes per side.
+-Remove the lamb from the skillet and set aside.
+-In a small bowl, mix together the garlic, thyme, rosemary, Dijon mustard, and honey.
+-Brush the mixture over the top and sides of the lamb racks.
+-Return the lamb to the skillet and roast in the oven for 15-20 minutes, or until the internal temperature reaches 135°F (57°C) for medium-rare.
+-Remove the lamb from the oven and let it rest for 5-10 minutes before slicing and serving.
 
 
 
