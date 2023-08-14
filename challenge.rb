@@ -1,14 +1,15 @@
 # Text-based Game Challenge.
 def beginning 
-puts "Anthony Mackie walks into a restaurant and wants to order something for his anniversary. He has heard great things about Gordon Ramsay's Rack of Lamb and has high hopes because Gordon Ramsay oversees the operation. You're a chef in training under Gordon Ramsay and you are ordered by him to make this dish and not become an idiot sandwhich. You have all of the required ingredients, it is your job to not f*** it up, buddy. No pressure, its just Anothony Mackies anniversary.You have been given salt and pepper, olive oil, cloves, garlic mince, dried thyme, dried rosemary, dijon mustard, honey. Make sure you get no more than 4 wrong or else you will face the wrath of Gordon Ramsay. Gordon Ramsay asks whats the first step
+"Anthony Mackie walks into a restaurant and wants to order something for his anniversary. He has heard great things about Gordon Ramsay's Rack of Lamb and has high hopes because Gordon Ramsay oversees the operation. You're a chef in training under Gordon Ramsay and you are ordered by him to make this dish and not become an idiot sandwhich. You have all of the required ingredients, it is your job to not f*** it up, buddy. No pressure, its just Anothony Mackies anniversary.You have been given salt and pepper, olive oil, cloves, garlic mince, dried thyme, dried rosemary, dijon mustard, honey. Make sure you get no more than 4 wrong or else you will face the wrath of Gordon Ramsay. Gordon Ramsay asks whats the first step
 
 A) Option one: Preheat the oven to 400°F
 B) Option two: Preheat the oven to 240°F 
 C) Option three: Preheat the oven to 150°F"
 
-option_one1= gets.chomp 
 end
+puts beginning
 
+option_one1= gets.chomp 
 count = 0
 
 def first_step string
@@ -236,7 +237,7 @@ end
 
 p counter(count)
 
-puts 'Would you like to play a game? Type yes or no'
+puts 'Would you like to restart the game? Type yes or no'
     answer = gets.chomp
 def restart string
     if string == "YES".downcase
@@ -245,4 +246,4 @@ def restart string
         "BYE BYE"
     end
 end
-p restart(answer)
+puts restart(answer)
