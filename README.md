@@ -82,7 +82,7 @@ Salt and pepper
 Instructions:
 -Preheat the oven to 400°F (200°C).
 -Season the racks of lamb with salt and pepper.
--Heat the olive oil in a large oven-safe skillet over medium-high heat.
+-Heat the olive oil in a large oven-safe skillet over medium-high heat..
 -Add the lamb to the skillet and sear on all sides until browned, about 2-3 minutes per side.
 -Remove the lamb from the skillet and set aside.
 -In a small bowl, mix together the garlic, thyme, rosemary, Dijon mustard, and honey.

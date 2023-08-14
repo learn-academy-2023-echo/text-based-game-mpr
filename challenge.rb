@@ -1,4 +1,4 @@
-# Text-based Game Challenge
+# Text-based Game Challenge.
 def beginning 
 puts "Anthony Mackie walks into a restaurant and wants to order something for his anniversary. He has heard great things about Gordon Ramsay's Rack of Lamb and has high hopes because Gordon Ramsay oversees the operation. You're a chef in training under Gordon Ramsay and you are ordered by him to make this dish and not become an idiot sandwhich. You have all of the required ingredients, it is your job to not f*** it up, buddy. No pressure, its just Anothony Mackies anniversary.You have been given salt and pepper, olive oil, cloves, garlic mince, dried thyme, dried rosemary, dijon mustard, honey. Make sure you get no more than 4 wrong or else you will face the wrath of Gordon Ramsay. Gordon Ramsay asks whats the first step
 
