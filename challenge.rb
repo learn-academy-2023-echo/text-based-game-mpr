@@ -21,7 +21,7 @@ def first_step string
     end
 end
 
-# p first_step(option_one1)
+puts first_step(option_one1)
 
 puts "Now that you have pre-heated the oven to 400°F, what is the next step?
 A) Option one: Add the lamb to the skillet and sear on all sides until browned, about 2-3 minutes per side.
